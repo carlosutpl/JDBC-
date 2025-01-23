@@ -26,3 +26,7 @@ Contiene los siguientes datos:
 ![image](https://github.com/user-attachments/assets/32dd945a-c5a8-44ce-b606-354a8a599f39)
 
 
+Establecer conexión en una clase, una vez establecida podemos empezar a usar querys dentro de Scala:
+![image](https://github.com/user-attachments/assets/8b4a46ec-686b-43e3-bf9f-ed59e1831ef2)
+
+
